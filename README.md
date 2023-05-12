@@ -26,7 +26,7 @@
 <h2>Contatos</h2>
 
 <div>
-  <a = href="https://www.instagram.com/nattan_ft/"> 
+  <a = href="https://www.instagram.com/nattan_dev/"> 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> 
   </a>
    <a = href="https://wa.me/5581999052419"> 
