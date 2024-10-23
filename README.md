@@ -36,6 +36,9 @@
   <a = href="https://www.linkedin.com/in/elyaquim-nattan-6a681824a/"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
   </a>
+  <a = href="https://mail.google.com/mail/?view=cm&fs=1&to=elyaquimnattan@gmail.com&su=Contato&body=Olá,%20gostaria%20de%20entrar%20em%20contato"> 
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
+  </a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=120&section=footer"/>
